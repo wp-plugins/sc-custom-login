@@ -9,8 +9,8 @@
 * Custom CSS (Soon)
 
 ### Download from the WordPress plugin repository
-Soon
+[SC Custom Login](https://wordpress.org/plugins/sc-custom-login/)
 
 
 ## License
-[![WTFPL](wtfpl-badge.png "WTFPL")](https://github.com/zergiocosta/SC-Custom-Login/blob/master/LICENSE)
+[![WTFPL](wtfpl-badge.png "WTFPL")](https://github.com/zergiocosta/SC-Custom-Login/blob/master/SCLOGIN_LICENSE)

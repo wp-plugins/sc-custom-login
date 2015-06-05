@@ -19,6 +19,10 @@ The plugin injects:
 
 
 * 	Custom login error messages
+*	Custom background (Soon)
+*	Custom logo (Soon)
+*	Custom Colors (Soon)
+*	Custom CSS (Soon)
 
 
 New features are coming soon!!!
