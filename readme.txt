@@ -19,6 +19,8 @@ The plugin injects:
 
 
 * 	Custom login error messages
+*	Custom logo URL
+*	Custom logo title attr
 *	Custom background (Soon)
 *	Custom logo (Soon)
 *	Custom Colors (Soon)

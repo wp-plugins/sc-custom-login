@@ -13,6 +13,22 @@
 require_once plugin_dir_path( __FILE__ ) . '/options-page.php';
 
 /**
+ * Custom logo URL.
+ */
+function sclogin_admin_logo_url() {
+    return home_url();
+}
+add_filter( 'login_headerurl', 'sclogin_admin_logo_url' );
+
+/**
+ * Custom logo title.
+ */
+function sclogin_admin_logo_title() {
+    return get_bloginfo( 'name' );
+}
+add_filter( 'login_headertitle', 'sclogin_admin_logo_title' );
+
+/**
  * Change error msgs
  */
 function sclogin_login_error_msg() { 
